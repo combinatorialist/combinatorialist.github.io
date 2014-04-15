@@ -1,0 +1,10 @@
+name: "combinatorialist"
+description: "Personal Github Page"
+
+url: "http://combinatorialist.com"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
